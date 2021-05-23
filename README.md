@@ -18,7 +18,7 @@ By the end of the course, you will be able to build a logistic regression model 
 
 Logistic regression can identify important predictors of breast cancer using odds ratios and generate confidence intervals that provide additional information for decision-making. Model performance depends on the ability of the radiologists to accurately identify findings on mammograms.
 
-Join AI expert Hadelin de Ponteves as you code the solution along with him in this 1-hour, 3-part case study:
+3-part case study:
 
 **Part 1: Data Preprocessing**
 - Importing the dataset
@@ -31,3 +31,5 @@ Join AI expert Hadelin de Ponteves as you code the solution along with him in th
 **Part 3: Evaluating the Model**
 - Making the confusion matrix
 - Computing the accuracy with k-Fold cross-validation
+
+[Logistic Regression Practical Case Study](https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/)	
